@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RipuSudanSoni
-- 👀 I’m interested in web development
+- 👀 I’m passionate about technologies
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 6260551908
